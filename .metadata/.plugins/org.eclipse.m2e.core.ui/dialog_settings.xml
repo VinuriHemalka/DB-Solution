@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="wizardPage">
 		<list key="groupId">
+			<item value="com.DBsolution-Funders"/>
+			<item value="com.DBSolution-Researcher"/>
 			<item value="DBSolution-Researchproject"/>
 			<item value="DBSolution-Researchers"/>
 			<item value="DBSolution-Payement"/>
@@ -14,11 +16,12 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="DBsolution-Funders"/>
+			<item value="DBSolution-Researcher"/>
 			<item value="DBSolution-Researchproject"/>
 			<item value="DBSolution-Researchers"/>
 			<item value="DBSolution-Payement"/>
 			<item value="DBSolution-ReserachProjects"/>
-			<item value="DBSolution-Researcher"/>
 			<item value="DBSolution-Payements"/>
 			<item value="DBSolution-Funder"/>
 			<item value="DBSolution-Buyer"/>
