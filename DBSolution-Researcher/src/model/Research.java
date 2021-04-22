@@ -75,7 +75,7 @@ import java.sql.*;
 					}
  
  
-					// Prepare the html table to be displayed
+					// Prepare the html table to be display
 					output = "<table border='1'><tr><th>Reasearcher Name</th><th>Category</th>" +
 							"<th>Phone Number</th>" +
 							"<th>Email</th>" + "<th>Address</th>" + "<th>Country</th>" +
@@ -87,6 +87,7 @@ import java.sql.*;
  
  
 					// iterate through the rows in the result set
+					
 					while (rs.next())
 					{
 						String Researcher_ID = Integer.toString(rs.getInt("Researcher_ID"));
