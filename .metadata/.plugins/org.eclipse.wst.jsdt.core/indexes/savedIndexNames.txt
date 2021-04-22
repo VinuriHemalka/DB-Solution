@@ -1,6 +1,0 @@
-INDEX VERSION 1.4+D:\PAF-DBSolution\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-3377010576.index
-1267834139.index
-3145149713.index
-3584515858.index
-1411148755.index
