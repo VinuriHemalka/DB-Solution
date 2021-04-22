@@ -75,7 +75,7 @@ import java.sql.*;
 					}
  
  
-					// Prepare the html table to be display
+					// Prepare the html table to be displayed
 					output = "<table border='1'><tr><th>Reasearcher Name</th><th>Category</th>" +
 							"<th>Phone Number</th>" +
 							"<th>Email</th>" + "<th>Address</th>" + "<th>Country</th>" +
@@ -86,7 +86,7 @@ import java.sql.*;
 					ResultSet rs = stmt.executeQuery(query);
  
  
-					// iterate through the rows in the result set
+					// iterate through the rows in the result sets
 					
 					while (rs.next())
 					{
