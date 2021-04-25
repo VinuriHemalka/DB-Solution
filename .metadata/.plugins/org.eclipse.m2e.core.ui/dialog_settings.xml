@@ -1,57 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
 	<section name="wizardPage">
 		<list key="groupId">
-			<item value="com.DBsolution-Funders"/>
-			<item value="com.DBSolution-Researcher"/>
-			<item value="DBSolution-Researchproject"/>
-			<item value="DBSolution-Researchers"/>
-			<item value="DBSolution-Payement"/>
-			<item value="DBSolution-ReserachProjects"/>
-			<item value="DBSolution-Researcher"/>
-			<item value="DBSolution-Payements"/>
-			<item value="DBSolution-Funder"/>
-			<item value="DBSolution-Buyer"/>
+			<item value="com.DBSolution-User"/>
+			<item value="com.DB-Projects"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
-			<item value="DBsolution-Funders"/>
-			<item value="DBSolution-Researcher"/>
-			<item value="DBSolution-Researchproject"/>
-			<item value="DBSolution-Researchers"/>
-			<item value="DBSolution-Payement"/>
-			<item value="DBSolution-ReserachProjects"/>
-			<item value="DBSolution-Payements"/>
-			<item value="DBSolution-Funder"/>
-			<item value="DBSolution-Buyer"/>
+			<item value="DBSolution-User"/>
+			<item value="DB-Projects"/>
 		</list>
 		<list key="version">
 			<item value="0.0.1-SNAPSHOT"/>
 		</list>
-	</section>
-	<section name="org.eclipse.m2e.core.pom.overview">
-		<list key="ciManagementUrl">
-		</list>
-		<list key="ciManagementSystem">
-		</list>
-		<list key="issueManagementSystem">
-		</list>
-		<list key="issueManagementUrl">
-		</list>
-	</section>
-	<section name="org.eclipse.m2e.core.pom.dependencies">
-	</section>
-	<section name="org.eclipse.m2e.core.ui.internal.dialogs.MavenRepositorySearchDialog">
-		<item key="width" value="480"/>
-		<item key="height" value="667"/>
-		<item key="x" value="720"/>
-		<item key="y" value="71"/>
-	</section>
-	<section name="org.eclipse.m2e.editor.dialogs.ManageDependenciesDialog">
-		<item key="width" value="929"/>
-		<item key="height" value="450"/>
-		<item key="x" value="496"/>
-		<item key="y" value="215"/>
 	</section>
 </section>
